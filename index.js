@@ -8,6 +8,9 @@ nums3.sort(function(a, b) {
   return b - a;
 });
 
+nums2.sort(function(a, b) {
+  return b - a;
+});
 console.log(nums3);
 //Sort each array in decending order.
 
